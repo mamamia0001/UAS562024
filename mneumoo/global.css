@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  
+  --font-montserrat: Montserrat;
+  --font-poppins: Poppins;
+
+  
+  --font-size-xl: 20px;
+  --font-size-6xl: 25px;
+  --font-size-16xl: 35px;
+  --font-size-sm: 14px;
+
+  
+  --color-white: #fff;
+  --color-orange-100: #ffb700;
+  --color-gray: #1e1f23;
+  --color-darkslategray: #262f1c;
+
+  
+  --br-6xl: 25px;
+  --br-8xs: 5px;
+  --br-mini: 15px;
+}
